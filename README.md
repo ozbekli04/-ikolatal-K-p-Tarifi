@@ -1,4 +1,4 @@
-# -ikolatal-K-p-Tarifi
+# Çikolatal-Küp-Tarifi
 <!DOCTYPE html>
 <html lang="tr">
 <head>
